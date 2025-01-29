@@ -10,7 +10,7 @@ print("hello " + "Angela")
 
 #practice-3
 str = input("enter variable") #input is a function in python
-print(str) #print the input variable
+print(str) 
 
 #Day-1 Project
 print("Welcome to the Band Name Generator")
