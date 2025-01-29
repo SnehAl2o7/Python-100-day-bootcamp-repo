@@ -4,9 +4,13 @@
 print("hello world")
 print('print("what to print")')
 
-# #practice-2
+#practice-2
 print("hello" + "Angela")
 print("hello " + "Angela")
+
+#practice-3
+str = input("enter variable") #input is a function in python
+print(str) #print the input variable
 
 #Day-1 Project
 print("Welcome to the Band Name Generator")
