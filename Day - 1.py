@@ -1,12 +1,16 @@
 #PROJECT-1 BAND NAME
 
 #practic-1
-# print("hello world")
-# print('print("what to print")')
+print("hello world")
+print('print("what to print")')
 
-# #practice-2
-# print("hello" + "Angela")
-# print("hello " + "Angela")
+#practice-2
+print("hello" + "Angela")
+print("hello " + "Angela")
+
+#practice-3
+str = input("enter variable") #input is a function in python
+print(str) 
 
 #Day-1 Project
 print("Welcome to the Band Name Generator")
