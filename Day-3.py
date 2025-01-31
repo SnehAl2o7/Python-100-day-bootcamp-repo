@@ -6,6 +6,7 @@
 #     statement
 # else:
 #     statement
+
 print("Welcome to the Roller roaster")
 height = int(input("What is your height:"))
 if height >= 120:
@@ -33,7 +34,7 @@ else:
 # else:
 #     statement3
 
-#PRACTICE NO-4
+#PRACTICE NO - 3
 height = input("enter your height in metre")
 weight = input("enter your weight in kg")
 BMI = int(weight) / (height ** 2)
@@ -45,7 +46,6 @@ else :
     print("You are overweight")
 
 #PRACTICE NO-5
-
 
 #PROJECT NUMBER- 3
 print("Welcome to Treasure Island.")
