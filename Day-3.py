@@ -1,1 +1,2 @@
-print("welocome to day 3 of coding python")
+
+print("Hello there it's my day three here")
