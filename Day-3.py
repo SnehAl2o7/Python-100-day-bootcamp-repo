@@ -6,21 +6,21 @@
 #     statement
 # else:
 #     statement
-# print("Welcome to the Roller roaster")
-# height = int(input("What is your height:"))
-# if height >= 120:
-#     print("You can ride the roller coaster!")
-# else:
-#     print("You are not tall enough to ride the roller coaster!")
+
+print("Welcome to the Roller roaster")
+height = int(input("What is your height:"))
+if height >= 120:
+    print("You can ride the roller coaster!")
+else:
+    print("You are not tall enough to ride the roller coaster!")
 
 #PRACTICE NO-2 (ODD AND EVEN)
-# num = int(input("Enter a number:"))
-# if num % 2 == 0:
-#     print(f"{num} is even")
-# else:
-#     print(f"{num} is odd")
+num = int(input("Enter a number:"))
+if num % 2 == 0:
+    print(f"{num} is even")
+else:
+    print(f"{num} is odd")
 
-#PRACTICE NO-3
 # syntax for nested and elif condition
 # if condition: statement
 # elif condition: statement
@@ -34,19 +34,18 @@
 # else:
 #     statement3
 
-#PRACTICE NO-4
-# height = input("enter your height in metre")
-# weight = input("enter your weight in kg")
-# BMI = int(weight) / (height ** 2)
-# if BMI < 18.5:
-#     print("You are underweight")
-# elif 18.5 <= BMI < 25:
-#     print("Your are is normal")
-# else :
-#     print("You are overweight")
+#PRACTICE NO - 3
+height = input("enter your height in metre")
+weight = input("enter your weight in kg")
+BMI = int(weight) / (height ** 2)
+if BMI < 18.5:
+    print("You are underweight")
+elif 18.5 <= BMI < 25:
+    print("Your are is normal")
+else :
+    print("You are overweight")
 
 #PRACTICE NO-5
-
 
 #PROJECT NUMBER- 3
 print("Welcome to Treasure Island.")
