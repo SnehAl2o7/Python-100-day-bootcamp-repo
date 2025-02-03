@@ -1,3 +1,4 @@
+
 #PROJECT NUMBER 6
 #PRACTICE NO-6
 #CREATING FUNCTION
@@ -18,4 +19,3 @@ print(sum(3,4))
 
 def sum(): #creating a function without parameter
     print(2+4)
-sum()
