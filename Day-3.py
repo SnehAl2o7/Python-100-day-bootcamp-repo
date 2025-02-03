@@ -1,5 +1,5 @@
-#PROJECT NO -3
 
+#PROJECT NO -3
 #PRACTICE -1
 #Syntax
 # if condition:
@@ -82,6 +82,5 @@ if choice == "left":
         print("You found the treasure!")
 else:
     print("Game Over")
-
 
 
