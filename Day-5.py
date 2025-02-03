@@ -71,3 +71,5 @@ for i in word:
     password += ch
 
 print("Here is your password: ", password)
+
+
