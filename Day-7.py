@@ -78,10 +78,3 @@ while not end_of_game:
         end_of_game = True
         print("You win")
     print(stages[lives])
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 9bd2f9d5bf4d711758a7b96de44a960ee6ef78b0
