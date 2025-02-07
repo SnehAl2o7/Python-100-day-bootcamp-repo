@@ -1,4 +1,3 @@
-
 #PROJECT NUMBER - 8
 #PRACTICE NO-1
 def greet():
