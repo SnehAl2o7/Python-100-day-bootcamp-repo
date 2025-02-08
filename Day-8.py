@@ -1,4 +1,3 @@
-
 #PROJECT NUMBER - 8
 #PRACTICE NO-1
 def greet():
@@ -38,4 +37,8 @@ def greet_name(name,age):
     print(f"you are {age} years old")
 
 greet_name("snehal","20") #Positional argumnet
+
+
+#Practice NO- 2
+
 
