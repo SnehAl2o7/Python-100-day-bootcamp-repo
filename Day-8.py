@@ -38,3 +38,7 @@ def greet_name(name,age):
 
 greet_name("snehal","20") #Positional argumnet
 
+
+#Practice NO- 2
+
+
