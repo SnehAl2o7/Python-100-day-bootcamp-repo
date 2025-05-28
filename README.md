@@ -56,3 +56,28 @@ Welcome to my journey through the **100 Days of Python Bootcamp**! This reposito
 
 ## 📂 Repository Structure
 
+
+---
+
+## 🛠️ Tools & Tech
+
+- Python 3.10+
+- VS Code
+- Git & GitHub
+- Jupyter Notebooks
+- Virtual Environments (venv)
+- APIs & Postman
+- SQLite3 / SQLAlchemy
+- Flask / Jinja2
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/100-days-of-python.git
+   cd 100-days-of-python
+
+
+
