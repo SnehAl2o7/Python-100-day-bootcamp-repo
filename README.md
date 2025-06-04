@@ -4,7 +4,7 @@ Welcome to my journey through the **100 Days of Python Bootcamp**! This reposito
 
 ---
 
-## 📅 Progress Tracker
+## 📅 Progress Tracker of questions 
 
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
