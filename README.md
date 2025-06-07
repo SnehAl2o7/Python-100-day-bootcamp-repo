@@ -72,10 +72,7 @@ Welcome to my journey through the **100 Days of Python Bootcamp**! This reposito
 
 ---
 
-## 📌 How to Use
 
-1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/100-days-of-python.git
    cd 100-days-of-python
 
